@@ -1,0 +1,9 @@
+.vscode/
+
+# PlatformIO
+.pio/
+
+# Python
+.venv/
+venv/
+env/
